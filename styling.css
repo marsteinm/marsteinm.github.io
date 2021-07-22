@@ -8,15 +8,15 @@ body {
 	color: white;
 }
 
-:link {
+a:link {
 	color: lightpink;		
 }
 
-:visited {
+a:visited {
 	color: white;	
 }
 
-:hover {
+a:hover {
 	color: deeppink;	
 }
 
