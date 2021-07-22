@@ -8,6 +8,19 @@ body {
 	color: white;
 }
 
+:link {
+	color: lightpink;		
+}
+
+:visited {
+	color: white;	
+}
+
+:hover {
+	color: deeppink;	
+}
+
+
 
 
 
