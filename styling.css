@@ -1,10 +1,14 @@
 /*A style sheet for Cat's Corner*/
 
-
-
 body {
-	font: "Verdana", serif;
+	font-size: 1.5em;
+	font: Georgia, serif;
+	background-color: white;
+	color: white;
 }
+
+
+
 
 
 
