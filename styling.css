@@ -1,5 +1,7 @@
 /*A style sheet for Cat's Corner*/
 
+@charset "UTF-8";
+
 body {
 	font-size: 1.5em;
 	font: Georgia, serif;
