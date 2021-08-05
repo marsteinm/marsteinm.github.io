@@ -17,11 +17,13 @@ body {
 #TagLine {
 	font-size: 0.5em;
 	color: #fdfd96;
+	text-align:center;
 }
 
 #LoveCats {
 	font-size: 0.75em;
 	color: #fdfd96;
+	text-align:center;
 }
 
 h1, h2, h3 {
@@ -29,6 +31,10 @@ h1, h2, h3 {
 	font-size: 2em;
 	color: #fdfd96;
 	margin: 0.5em 0em 0.5em 0em;
+}
+
+div {
+	text-align:center;
 }
 
 a:link {
